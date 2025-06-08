@@ -14,7 +14,7 @@
     }
 
     .banner{
-        Background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) , url("images/fab.jpg");
+        Background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) , url("../images/fab.jpg");
         /* background-image: url(banner.jpg); */
         background-position: center;
         background-repeat: no-repeat;
